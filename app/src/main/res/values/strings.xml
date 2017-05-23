@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="functions_array">
+        <item>Select</item>
+        <item>Function #1</item>
+        <item>Function #2</item>
+        <item>Function #3</item>
+        <item>Function #4</item>
+        <item>Function #5</item>
+        <item>Function #6</item>
+        <item>Function #7</item>
+        <item>Function #8</item>
+    </string-array>
+
+</resources>
